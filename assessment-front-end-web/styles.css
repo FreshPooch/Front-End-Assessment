@@ -30,9 +30,42 @@ a:visited {
 
 
 input {
-	display: block;
+	display: block; 
 }
 
 img {
 	max-width: 300px;
 }
+
+.check1 {
+	display: flex;
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+
+.check2 {
+	display: flex; 
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.check3 {
+	display: flex; 
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+#submit-btn {
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-right: 35px;
+	padding-left: 35px;
+	background-color: rgb(23, 232, 23);
+	color: white; 
+	cursor: pointer;
+	border: none; 
+	border-radius: 15px;
+
+}
+
